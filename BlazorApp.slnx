@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/SolutionItems/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="BlazorApp/BlazorApp.csproj" />
+</Solution>
